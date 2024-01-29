@@ -95,6 +95,10 @@ h1 {
   margin-bottom: 3rem;
 }
 
+.guess:focus {
+  outline: none;
+}
+
 .btn {
   border: none;
   background-color: #eee;
